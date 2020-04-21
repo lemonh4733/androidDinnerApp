@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pietų programėlė</string>
+
+    <string name="login_username">Vartotojo vardas</string>
+    <string name="login_password">Slaptažodis</string>
+    <string name="login_submit_log">Prisijungti</string>
+    <string name="login_submit_reg">Registruotis</string>
+    <string name="login_username_error">Vartotojo vardas neteisingas</string>
+    <string name="login_password_error">Slaptažodis neteisingas</string>
+
+    <string name="register">Registracija</string>
+    <string name="register_email">El.Paštas</string>
+    <string name="register_confPasw">Patvirtinti slpatažodį</string>
+    <string name="register_passwordMatch_error">Slaptažodžiai nesutampa</string>
+    <string name="register_password_error">Slaptažodį gali sudaryti mažosios ir didžiosios raidės, nuo 5 iki 20 simbolių, specialūs symboliai (.!@_)</string>
+    <string name="register_username_error">Vartotojo vardą gali sudaryti mažosios ir didžiosios raidės, nuo 3 iki 20 simbolių</string>
+    <string name="register_email_error">Neteisingas el.paštas</string>
+
+    <string name="search_btn">Ieškoti</string>
+    <string name="search_hint">Įrašykite raktažodį</string>
+</resources>
