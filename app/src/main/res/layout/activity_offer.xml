@@ -21,12 +21,12 @@
                 android:layout_width="match_parent"
                 android:layout_height="20dp"/>
             <TextView
-                android:id="@+id/title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/title"
                 />
             <EditText
+                android:id="@+id/title"
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
                 />
@@ -65,6 +65,7 @@
                 android:text="@string/deliver"
                 />
             <RadioGroup
+                android:id="@+id/radiogroup_deliver"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
                 <RadioButton
