@@ -5,6 +5,7 @@
     <string name="login_password">Slaptažodis</string>
     <string name="login_submit_log">Prisijungti</string>
     <string name="login_submit_reg">Registruotis</string>
+    <string name="login_remember">Prisiminti mane</string>
     <string name="login_username_error">Vartotojo vardas neteisingas</string>
     <string name="login_password_error">Slaptažodis neteisingas</string>
 
@@ -18,4 +19,17 @@
 
     <string name="search_btn">Ieškoti</string>
     <string name="search_hint">Įrašykite raktažodį</string>
+
+    <string name="add_offer">+</string>
+    <string name="soup">Sriuba</string>
+    <string name="main">Pagrindinis</string>
+    <string name="salad">Salotos</string>
+    <string name="title">Pavadinimas</string>
+    <string name="payment">Apmokėjimas</string>
+    <string name="dinnerType">Pietų tipas</string>
+    <string name="deliver">Pristatymas</string>
+    <string name="yes">Taip</string>
+    <string name="no">Ne</string>
+    <string name="add_submit">Pridėti</string>
+    <string name="add_new">Pridėti naują:</string>
 </resources>
