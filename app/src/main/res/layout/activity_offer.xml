@@ -28,7 +28,7 @@
             <EditText
                 android:id="@+id/title"
                 android:layout_width="match_parent"
-                android:layout_height="30dp"
+                android:layout_height="wrap_content"
                 />
             <Space
                 android:layout_width="match_parent"
@@ -81,6 +81,20 @@
                     android:text="@string/no"
                     />
             </RadioGroup>
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/price"
+                />
+            <EditText
+                android:id="@+id/price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                />
             <Space
                 android:layout_width="match_parent"
                 android:layout_height="10dp"/>
