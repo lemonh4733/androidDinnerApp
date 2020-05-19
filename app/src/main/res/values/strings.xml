@@ -37,5 +37,5 @@
     <string name="empty_price">Privaloma įrašyti kainą</string>
 
     <string name="new_offer_database_info">Įrašas keliamas į duomenų bazę</string>
-    <string name="URL_DATABASE">https://dinnerappkitm.000webhostapp.com/db.php</string>
+    <string name="new_user_database_info">Vartotojas kuriamas</string>
 </resources>

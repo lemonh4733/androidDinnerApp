@@ -11,38 +11,19 @@ public class Offer {
         this.payment = payment;
     }
 
-    public String getTitle() {
-        return title;
-    }
-    public void setTitle(String title) {
-        this.title = title;
-    }
 
-    public String getDinnerType() {
-        return dinnerType;
-    }
-    public void setDinnerType(String dinnerType) {
-        this.dinnerType = dinnerType;
-    }
+    public String getTitle() {return title;}
+    public void setTitle(String title) {this.title = title;}
 
-    public String getDeliver() {
-        return deliver;
-    }
-    public void setDeliver(String deliver) {
-        this.deliver = deliver;
-    }
+    public String getDinnerType() {return dinnerType;}
+    public void setDinnerType(String dinnerType) {this.dinnerType = dinnerType;}
 
-    public double getPrice() {
-        return price;
-    }
-    public void setPrice(double price) {
-        this.price = price;
-    }
+    public String getDeliver() {return deliver;}
+    public void setDeliver(String deliver) {this.deliver = deliver;}
 
-    public String getPayment() {
-        return payment;
-    }
-    public void setPayment(String payment) {
-        this.payment = payment;
-    }
+    public double getPrice() {return price;}
+    public void setPrice(double price) {this.price = price;}
+
+    public String getPayment() {return payment;}
+    public void setPayment(String payment) {this.payment = payment;}
 }
